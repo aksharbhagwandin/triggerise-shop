@@ -29,5 +29,3 @@ There was no hard requirement for a UI so I followed the TDD approach and wrote 
 The tests all passed as you can see from the screenshots below:
 
 Your feedback, good and bad, will be appreciated.
-
-<img src="tests.png" alt=“Tests Screenshot”>
