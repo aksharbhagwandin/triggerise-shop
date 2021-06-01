@@ -26,6 +26,6 @@ The solution allows the developer to easily add more discount offers and product
 
 There was no hard requirement for a UI so I followed the TDD approach and wrote tests first in order to cover the given requirements as well as tests to show other scenarios.  
 
-The tests all passed as you can see from the screenshots below:
+The tests all passed as you can see from the image called tests.png:
 
 Your feedback, good and bad, will be appreciated.
